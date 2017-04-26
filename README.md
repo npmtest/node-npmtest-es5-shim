@@ -1,6 +1,6 @@
 # npmtest-es5-shim
 
-#### test coverage for  [es5-shim (v4.5.9)](http://github.com/es-shims/es5-shim/)  [![npm package](https://img.shields.io/npm/v/npmtest-es5-shim.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-es5-shim) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-es5-shim.svg)](https://travis-ci.org/npmtest/node-npmtest-es5-shim)
+#### basic test coverage for  [es5-shim (v4.5.9)](http://github.com/es-shims/es5-shim/)  [![npm package](https://img.shields.io/npm/v/npmtest-es5-shim.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-es5-shim) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-es5-shim.svg)](https://travis-ci.org/npmtest/node-npmtest-es5-shim)
 
 #### ECMAScript 5 compatibility shims for legacy JavaScript engines
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-es5-shim/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-es5-shim/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-es5-shim/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-es5-shim/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-es5-shim/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-es5-shim/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-es5-shim/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-es5-shim/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-es5-shim/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-es5-shim/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-es5-shim/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-es5-shim/build/coverage.html/index.html)
 
@@ -142,7 +142,8 @@
             "android-browser/4.2"
         ]
     },
-    "version": "4.5.9"
+    "version": "4.5.9",
+    "bin": {}
 }
 ```
 
